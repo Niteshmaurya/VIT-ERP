@@ -1,0 +1,4 @@
+ 'Machine Learning' requires 'Programming in C'
+  'Database Management Systems' requires 'Data Structures'
+  'Digital Logic Design' requires 'Programming in C'
+ 'Embedded Systems' requires 'Database Management Systems'
